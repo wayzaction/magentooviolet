@@ -1,0 +1,49 @@
+/**
+Transculent Cloudsss
+*/
+
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
+
+:root {
+  --app-bg: url('https://i.ibb.co/35S0jNHm/background.png');
+  --app-blur: 21px;
+  --app-margin: 0px;
+  --app-radius: 0px;
+  --accent-hue: 284;
+  --accent-saturation: 100%;
+  --accent-lightness: 54%;
+  --accent-opacity: 1;
+  --sidebar-color: rgba(0,0,0,0.4);
+  --main-content-color: rgba(0,0,0,0.2);
+  --undefined: 0;
+  --interactive-normal: #aaa;
+  --interactive-hover: #ddd;
+  --interactive-active: #fff;
+  --interactive-muted: #777;
+  --undefined: 0;
+  --background-modifier-hover: rgba(255,255,255,0.075);
+  --background-modifier-selected: rgba(255,255,255,0.125);
+  --message-color: rgba(0,0,0,0.4);
+  --message-radius: 0px;
+  --message-padding-top: 8px;
+  --message-padding-side: 7px;
+  --undefined: 0;
+  --reply-hue: 226;
+  --reply-saturation: 77%;
+  --reply-lightness: 61%;
+  --reply-opacity: 1;
+  --textarea-color: 255,255,255;
+  --textarea-alpha: 0.1;
+  --textarea-alpha-focus: 0.15;
+  --textarea-radius: 22px;
+  --card-color: rgba(0,0,0,0.4);
+  --card-color-hover: rgba(0,0,0,0.5);
+  --card-color-select: rgba(0,0,0,0.7);
+  --button-height: 32px;
+  --button-padding: 0 16px;
+  --button-radius: 16px;
+}
+
+/* Any custom CSS below here */
+
+

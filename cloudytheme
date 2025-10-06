@@ -1,12 +1,5 @@
 /**
- * @name cloudy
- * @version 8.0
- * @description A simple but highly customizable theme, now sugar free!
- * @author Spectra
- * @invite PZdnCVD
- * @source https://github.com/xcruxiex/themes
- * @website https://betterdiscord.app/theme/Neutron
- * @BDEditor Neutron
+Wayz dares you to try this
 */
 
 @import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');

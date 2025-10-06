@@ -1,45 +1,33 @@
 /**
- * Ferocious.
+ * @name cloudy
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
 */
 
-@import url('https://i.ibb.co/GfCV82jQ/background.png');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
 
 :root {
-  --app-bg: url('https://ibb.co/KcV9fqHx');
-  --app-blur: 2px;
-  --app-margin: 24px;
-  --app-radius: 8px;
-  --accent-hue: 348;
-  --accent-saturation: 88%;
-  --accent-lightness: 55%;
-  --accent-opacity: 1;
-  --sidebar-color: rgba(0,0,0,0.4);
-  --main-content-color: rgba(0,0,0,0.2);
-  --undefined: 0;
-  --interactive-normal: #aaa;
-  --interactive-hover: #FFFFFF;
-  --interactive-active: #FFFFFF;
-  --interactive-muted: #777;
-  --undefined: 0;
-  --background-modifier-hover: rgba(255,255,255,0.075);
-  --background-modifier-selected: rgba(255,255,255,0.125);
-  --message-color: rgba(0,0,0,0.4);
-  --message-radius: 8px;
-  --message-padding-top: 8px;
-  --message-padding-side: 8px;
-  --undefined: 0;
-  --reply-hue: 226;
-  --reply-saturation: 77%;
-  --reply-lightness: 61%;
-  --reply-opacity: 1;
-  --textarea-color: 255,255,255;
-  --textarea-alpha: 0.1;
-  --textarea-alpha-focus: 0.15;
-  --textarea-radius: 22px;
-  --card-color: rgb(0,0,0,0.4);
-  --card-color-hover: rgba(0,0,0,0.5);
-  --card-color-select: rgba(0,0,0,0.7);
-  --button-height: 32px;
-  --button-padding: 0 16px;
-  --button-radius: 16px;
+  --backgroundImage: url('https://i.ibb.co/GfCV82jQ/background.png');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 19px;
+  --backgroundOpacity: 0.65;
+  --homeImage: url('https://i.ibb.co/GfCV82jQ/background.png');
+  --homeImageSize: cover;
+  --themeColor1: #9C27B0;
+  --themeColor2: #4900CA;
+  --customFont: Open Sans;
+  --backgroundCode: rgba(0 0 0 /.5);
+  --backgroundName: rgba(0 0 0 /.5);
 }
+
+/* Any custom CSS below here */
+
+
